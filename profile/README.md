@@ -4,7 +4,7 @@
 
 ## Связь
 
-- Email: [ntc@nebukin.tech](mailto:ntc@nebukin.tech)
+- Email техцентра Nebukin Systems: [center@nebukin.tech](mailto:ntc@nebukin.tech?subject=Письмо для Nebukin Testers Community | Email for NTC)
 
 ## О нас
 
